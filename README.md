@@ -1,6 +1,6 @@
 # Hey, I'm Trever,
 
-A up-and-coming ECE undergrad who's into the point where software stops being abstract and starts touching actual hardware — firmware, silicon, the whole stack underneath the code. CS50 grad, and still chasing that "wait, that's how it works?" feeling with every new project.
+An up-and-coming ECE undergrad who's into the point where software stops being abstract and starts touching actual hardware — firmware, silicon, the whole stack underneath the code. CS50 grad, and still chasing that "wait, that's how it works?" feeling with every new project.
 
 ## Achievements
 
