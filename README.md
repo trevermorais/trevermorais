@@ -52,10 +52,6 @@ Download: [scratch-project.sb3](./scratch-project.sb3)
 <h4>SQL / SQLite — CS50's cs50.SQL, plus progress/auth persistence</h4>
 <h4>Git — version control, worth including even though it's implicit — it signals you actually work with proper workflows, not just zip-file submissions</h4>
 
-## GitHub Stats
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=default" height="165"/> </p>
-
 ## Connect
 
 [Kennol Designs / portfolio] · treversnovin@gmail.com
