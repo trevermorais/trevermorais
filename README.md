@@ -2,7 +2,7 @@
 
 # Hey, I'm Trever,
 
-An ECE undergrad who's into the point where software stops being abstract and starts touching actual hardware — firmware, silicon, the whole stack underneath the code. CS50 GRAD and still chasing that "wait, that's how it works?" feeling with every new project.
+An ECE undergrad drawn to the point where software meets hardware: firmware, embedded systems, and the silicon underneath the code. CS50 graduate, building something new every month and still chasing that “wait, that’s how it works?” feeling.
 
 <br>
 
